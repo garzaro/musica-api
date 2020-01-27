@@ -1,2 +1,2 @@
 # musica-api
-# Essa e uma api que sempre sonhei em fazer para listar as musicas que gosto de ouvir. A listagem tera o nome da musica do cantor, o ano da musica, nome da banda, ano da banda e tipo da musica.
+# Esta e uma api que sempre sonhei em fazer para listar as músicas que gosto de ouvir. A listagem terá o nome da música do cantor ou banda, o ano da música, nome da banda, ano da banda e tipo da música...sujeito a alteração.
